@@ -1,0 +1,9 @@
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\bin\Debug\netcoreapp1.1\PhotographyEye.deps.json
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\bin\Debug\netcoreapp1.1\PhotographyEye.runtimeconfig.json
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\bin\Debug\netcoreapp1.1\PhotographyEye.runtimeconfig.dev.json
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\bin\Debug\netcoreapp1.1\PhotographyEye.dll
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\bin\Debug\netcoreapp1.1\PhotographyEye.pdb
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.csprojResolveAssemblyReference.cache
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.AssemblyInfo.cs
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.dll
+c:\users\ashan\documents\visual studio 2017\Projects\GoodnaWebPortal\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.pdb

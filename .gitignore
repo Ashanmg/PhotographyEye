@@ -5,6 +5,11 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# ignore an entire directory
+/node_modules/
+/WebPortal/node_modules/
+/WebPortal/bower_components/
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
@@ -45,3 +50,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
