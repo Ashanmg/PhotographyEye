@@ -1,4 +1,7 @@
-﻿using PhotographyEye.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using PhotographyEye.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,10 +24,10 @@ namespace PhotographyEye.Infrastructure
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            foreach (var entity in modelBuilder.Model.GetEntityTypes())
-            {
-                entity.Relational().TableName = entity.DisplayName();
-            }
+            //foreach (var entity in modelBuilder.Model.GetEntityTypes())
+            //{
+            //    entity.Relational().TableName = entity.DisplayName();
+            //}
 
             // Photos
             modelBuilder.Entity<Photo>().Property(p => p.Title).HasMaxLength(100);
