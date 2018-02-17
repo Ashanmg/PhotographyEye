@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace PhotographyEye.Infrastructure
 {
-    public class PhotoGalleryContext : DbContext
+    public class PhotographyEyeContext : DbContext
     {
         public DbSet<Photo> Photos { get; set; }
         public DbSet<Album> Albums { get; set; }
@@ -18,7 +18,7 @@ namespace PhotographyEye.Infrastructure
         public DbSet<UserRole> UserRoles { get; set; }
         public DbSet<Error> Errors { get; set; }
 
-        public PhotoGalleryContext(DbContextOptions options) : base(options)
+        public PhotographyEyeContext(DbContextOptions options) : base(options)
         {
         }
 
