@@ -9,6 +9,7 @@ Desktop.ini
 /node_modules/
 /WebPortal/node_modules/
 /WebPortal/bower_components/
+.vs/
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
