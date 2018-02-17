@@ -1,0 +1,11 @@
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\bin\Debug\netcoreapp2.0\PhotographyEye.deps.json
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\bin\Debug\netcoreapp2.0\PhotographyEye.runtimeconfig.json
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\bin\Debug\netcoreapp2.0\PhotographyEye.runtimeconfig.dev.json
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\bin\Debug\netcoreapp2.0\PhotographyEye.dll
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.csprojResolveAssemblyReference.cache
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.csproj.CoreCompileInputs.cache
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.AssemblyInfoInputs.cache
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.AssemblyInfo.cs
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\bin\Debug\netcoreapp2.0\PhotographyEye.pdb
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.dll
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.pdb

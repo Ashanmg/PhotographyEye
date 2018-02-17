@@ -11,3 +11,7 @@ C:\Users\ashan\Documents\Visual Studio 2017\Projects\PhotographyEye\WebPortal\bi
 C:\Users\ashan\Documents\Visual Studio 2017\Projects\PhotographyEye\WebPortal\bin\Debug\netcoreapp1.1\PhotographyEye.runtimeconfig.json
 C:\Users\ashan\Documents\Visual Studio 2017\Projects\PhotographyEye\WebPortal\bin\Debug\netcoreapp1.1\PhotographyEye.runtimeconfig.dev.json
 C:\Users\ashan\Documents\Visual Studio 2017\Projects\PhotographyEye\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.csprojResolveAssemblyReference.cache
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.csprojResolveAssemblyReference.cache
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.csproj.CoreCompileInputs.cache
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.AssemblyInfoInputs.cache
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp1.1\PhotographyEye.AssemblyInfo.cs
