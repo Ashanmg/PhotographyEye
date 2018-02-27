@@ -8,3 +8,4 @@ I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2
 I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\bin\Debug\netcoreapp2.0\PhotographyEye.pdb
 I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.dll
 I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.pdb
+I:\Learning Enviornment\.net core\PhotographyEye\WebPortal\obj\Debug\netcoreapp2.0\PhotographyEye.csprojResolveAssemblyReference.cache
