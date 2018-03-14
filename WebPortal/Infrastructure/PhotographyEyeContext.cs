@@ -13,7 +13,7 @@ namespace PhotographyEye.Infrastructure
         public DbSet<UserRole> UserRoles { get; set; }
         public DbSet<Error> Errors { get; set; }
 
-        public PhotographyEyeContext(DbContextOptions options) : base(options)
+        public PhotographyEyeContext(DbContextOptions<PhotographyEyeContext> options) : base(options)
         {
         }
 

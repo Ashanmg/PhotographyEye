@@ -10269,11 +10269,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "I:\\Learning Enviornment\\.net core\\PhotographyEye\\WebPortal\\PhotographyEye.csproj",
+      "projectUniqueName": "I:\\Learning Enviornment\\.net core\\PhotographyEye\\PhotographyEye\\WebPortal\\PhotographyEye.csproj",
       "projectName": "PhotographyEye",
-      "projectPath": "I:\\Learning Enviornment\\.net core\\PhotographyEye\\WebPortal\\PhotographyEye.csproj",
+      "projectPath": "I:\\Learning Enviornment\\.net core\\PhotographyEye\\PhotographyEye\\WebPortal\\PhotographyEye.csproj",
       "packagesPath": "C:\\Users\\ashan\\.nuget\\packages\\",
-      "outputPath": "I:\\Learning Enviornment\\.net core\\PhotographyEye\\WebPortal\\obj\\",
+      "outputPath": "I:\\Learning Enviornment\\.net core\\PhotographyEye\\PhotographyEye\\WebPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

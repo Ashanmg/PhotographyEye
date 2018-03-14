@@ -12,6 +12,7 @@ using Newtonsoft.Json.Serialization;
 using PhotographyEye.Infrastructure.Repositories.Abstract;
 using PhotographyEye.Infrastructure.Services.Abstract;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore;
 
 namespace WebPortal
 {
@@ -45,19 +46,10 @@ namespace WebPortal
         // For more information on how to configure your application, visit http://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            string sqlConnectionString = Configuration["ConnectionStrings:DefaultConnection"];
-            bool useInMemoryProvider = bool.Parse(Configuration["Data:PhotoGalleryConnection:InMemoryProvider"]);
+            // string sqlConnectionString = Configuration["ConnectionStrings:DefaultConnection"];
 
             services.AddDbContext<PhotographyEyeContext>(options => {
-                switch (useInMemoryProvider)
-                {
-                    case true:
-                        options.UseInMemoryDatabase();
-                        break;
-                    default:
-                        options.UseSqlServer(sqlConnectionString);
-                        break;
-                }
+                options.UseSqlServer(Configuration.GetConnectionString("Default"));
             });
 
             // Repositories
@@ -127,19 +119,6 @@ namespace WebPortal
             });
 
             DbInitializer.Initialize(app.ApplicationServices, _applicationPath);
-        }
-
-        // Entry point for the application.
-        public static void Main(string[] args)
-        {
-            var host = new WebHostBuilder()
-              .UseKestrel()
-              .UseContentRoot(Directory.GetCurrentDirectory())
-              .UseIISIntegration()
-              .UseStartup<Startup>()
-              .Build();
-
-            host.Run();
         }
     }
 }
